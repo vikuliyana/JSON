@@ -1,0 +1,11 @@
+{
+	"name": "Viktoriia",
+	"sername": "Bespiatova",
+	"age": 23,
+	"pets": {
+			"dog": "Nord",
+			"cat_1": "Anfisa",
+			"cat_2": "Sonya"
+		},
+	"salary": "$2000"
+}
